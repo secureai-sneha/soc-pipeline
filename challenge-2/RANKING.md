@@ -109,7 +109,7 @@ But detection occurs **late in attack chain**.
 
 Mitigation:
 - Add strong visible warning:
-> ⚠️ THIS IS A SECURITY TRIPWIRE — DO NOT USE
+> THIS IS A SECURITY TRIPWIRE — DO NOT USE
 
 ---
 
