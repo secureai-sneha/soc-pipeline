@@ -1,7 +1,7 @@
 aws_region            = "ap-south-1"
 
 canary_access_key_id  = "AKIA1234567890ABCDEF"
-alert_email           = "your-real-email@gmail.com"
+alert_email           = "email@gmail.com"
 
 # Chronicle (leave empty if not using yet)
 chronicle_endpoint    = ""
