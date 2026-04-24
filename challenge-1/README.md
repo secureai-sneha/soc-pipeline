@@ -212,7 +212,7 @@ soc-pipeline/
 └── README.md         — this file
 ```
 
-## How to test locally (no AWS needed)
+## How to test this
 
 Save this as `test_local.py` in the same folder as `processor.py` and run it:
 
