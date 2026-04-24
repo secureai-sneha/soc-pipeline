@@ -12,7 +12,7 @@ schema, and stores them in an S3 data lake for long-term Athena querying.
 
 ```
 ┌─────────────────────────┐
-│  Money Transfer Service │  (your application)
+│  Money Transfer Service │  (the application)
 │  AWS Lambda             │
 └────────────┬────────────┘
              │ writes JSON logs
