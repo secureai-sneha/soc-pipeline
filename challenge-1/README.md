@@ -1,4 +1,4 @@
-# SOC Logging Pipeline — Proof of Concept
+# The Secure Pipe Architect
 
 ## What this does
 
