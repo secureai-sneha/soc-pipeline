@@ -204,10 +204,12 @@ is identified.
 
 ```
 soc-pipeline/
-├── main.tf         — S3, Firehose, Lambda, IAM, Subscription Filter
-├── variables.tf    — input variables and outputs
-├── processor.py    — Lambda enrichment and normalization logic
-└── README.md       — this file
+├── main.tf           — S3, Firehose, Lambda, IAM, Subscription Filter
+├── variables.tf      — input variables and outputs
+├── terraform.tfvars  — input variable values, allowing us to customize deployments without modifying the core configuration files
+├── processor.py      — Lambda enrichment and normalization logic
+├── test_lambda.py    — To test processor.py on a test data
+└── README.md         — this file
 ```
 
 ## How to test locally (no AWS needed)
