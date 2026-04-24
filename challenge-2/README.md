@@ -131,7 +131,7 @@ aws_secret_access_key = YOUR_CANARY_SECRET_KEY
 
 ---
 
-## How to test it works
+## How to test
 
 Use the canary credentials to make a harmless API call:
 
